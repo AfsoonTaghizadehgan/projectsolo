@@ -1,6 +1,6 @@
 import React from "react"
 
-
+//a paragraph about my skills in programming
 export default function About(){
     return(
         <div className="about">

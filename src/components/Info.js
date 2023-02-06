@@ -3,7 +3,7 @@ import profile from "../images/profile.png"
 import { MdEmail} from 'react-icons/md';
 import {GrLinkedin } from 'react-icons/gr';
 
-
+//Information section including a profile picture and symbolic bottons to linkedin and email
 export default function Info(){
     return(
         <dev className="info">

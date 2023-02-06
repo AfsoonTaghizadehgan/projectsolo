@@ -1,6 +1,6 @@
 import React from "react"
 
-
+//to show my interests beside programming
 export default function Interests(){
     return(
         <div className="interests">
